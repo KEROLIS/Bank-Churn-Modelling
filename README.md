@@ -10,13 +10,11 @@
 https://www.kaggle.com/hj5992/bank-churn-modelling
 
 ## Prerequests 
-- python3
 
-- Pandas
-
-- Numpy
-
-- jupyter notebook
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
 
 
 ## Installing
